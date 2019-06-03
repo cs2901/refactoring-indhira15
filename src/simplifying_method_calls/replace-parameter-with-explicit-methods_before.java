@@ -1,10 +1,18 @@
+
+void mod_height(int value){
+    height = value;
+}
+void mod_width(value){
+    width = value;
+}
+
 void setValue(String name, int value) {
   if (name.equals("height")) {
-    height = value;
+        mod_height(value);
     return;
   }
   if (name.equals("width")) {
-    width = value;
+        mod_width(value)
     return;
   }
   Assert.shouldNeverReachHere();

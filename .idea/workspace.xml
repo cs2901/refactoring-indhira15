@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="803afbcf-ff1f-453f-811f-3501f4fc4738" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/organizing_data/replace-magic-number-with-symbolic-constant_before.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/organizing_data/replace-magic-number-with-symbolic-constant_before.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simplifying_method_calls/replace-parameter-with-explicit-methods_before.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simplifying_method_calls/replace-parameter-with-explicit-methods_before.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,20 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/simplifying_conditional_expressions/replace-nested-conditional-with-guard-clauses_before.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/organizing_data/replace-magic-number-with-symbolic-constant_before.java">
+        <entry file="file://$PROJECT_DIR$/src/simplifying_method_calls/replace-parameter-with-explicit-methods_before.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+            <state relative-caret-position="270">
+              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -51,6 +42,7 @@
         <option value="$PROJECT_DIR$/src/composing/inline-method_before.java" />
         <option value="$PROJECT_DIR$/src/simplifying_conditional_expressions/replace-nested-conditional-with-guard-clauses_before.java" />
         <option value="$PROJECT_DIR$/src/organizing_data/replace-magic-number-with-symbolic-constant_before.java" />
+        <option value="$PROJECT_DIR$/src/simplifying_method_calls/replace-parameter-with-explicit-methods_before.java" />
       </list>
     </option>
   </component>
@@ -508,13 +500,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/simplifying_method_calls/replace-parameter-with-explicit-methods_before.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/simplifying_conditional_expressions/replace-nested-conditional-with-guard-clauses_before.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -524,8 +509,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/organizing_data/replace-magic-number-with-symbolic-constant_before.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+        <state relative-caret-position="75">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simplifying_method_calls/replace-parameter-with-explicit-methods_before.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
         </state>
       </provider>
     </entry>
