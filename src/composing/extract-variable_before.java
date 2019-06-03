@@ -1,9 +1,9 @@
 void renderBanner() {
-    final boolean a1=platform.toUpperCase().indexOf("MAC") > -1;
-    final boolean a2=browser.toUpperCase().indexOf("IE") > -1;
-    final boolean a3=wasInitialized();
-    final boolean a4=resize > 0;
-  if (a1 && a2 && a3 && a4)
+    final boolean condicion1 = platform.toUpperCase().indexOf("MAC") > -1;
+    final boolean condicion2 = browser.toUpperCase().indexOf("IE") > -1;
+    final boolean condicion3 = wasInitialized();
+    final boolean condicion4 = resize > 0;
+  if (condicion1 && condicion2 && condicion3 && condicion4)
   {
     // do something
   }
